@@ -12,3 +12,6 @@ This repository hosts a documentation page featuring a navigation bar for variou
 
 ## Author
 Kameti Kumbi
+
+## Link
+https://kameti77.github.io/Technical-Documentation-Page/
